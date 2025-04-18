@@ -34,16 +34,5 @@ Aplikasi web untuk mengelola perpustakaan dengan fitur manajemen buku, anggota, 
   - Pengembalian buku
   - Riwayat peminjaman
 
-## Cara Menjalankan Aplikasi
+## ON PROGRESS!!!!
 
-### Persiapan
-1. Install Java JDK 17
-2. Install Node.js
-3. Install XAMPP
-4. Buat database `library_db` di MySQL
-
-### Backend
-1. Buka folder `backend`
-2. Jalankan aplikasi Spring Boot
-```bash
-./mvnw spring-boot:run
